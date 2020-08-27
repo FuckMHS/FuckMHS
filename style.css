@@ -115,3 +115,22 @@ footer {
 #bottomnav li a:hover{
   color: #2c2c2c;
 }
+
+#bottomnav li a.currentpage{
+  color: #2c2c2c;
+  font-weight: bold;
+}
+
+#error404 {
+  padding-top: 5em;
+  text-align: center;
+}
+
+#error404 .title{
+  font-size: 75px;
+  font-weight: bold;
+}
+
+#error404 .subtitle {
+  font-size: 25px;
+}
