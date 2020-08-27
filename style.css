@@ -27,7 +27,7 @@ header {
   height: 6.2em;
   position: relative;
   z-index: 0;
-  background: rgba(255,255,255,0.9) url(headertop.png) 85% 0 no-repeat;
+  background: rgba(255,255,255,0.9) url(assets/headertop.png) 85% 0 no-repeat;
   background-size: auto 100%;
 }
   
